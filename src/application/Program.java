@@ -11,6 +11,8 @@ public class Program {
 		String resposta = sc.next();
 		System.out.println("OK" + resposta);
 		
+		System.out.println("Parabens! Realizei um novo Commit!!!");
+		
 		sc.close();
 	}
 
